@@ -1,2 +1,3 @@
-# Social-Links-Page
-Social links profile with flexbox
+# Frontend Mentor - Social links profile
+
+![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
